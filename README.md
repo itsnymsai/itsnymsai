@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
+### <div align="center">My name is Maia and I'm a front-end developer who started my studies in 2018 - 2020. I'm currently majoring in Graphic Design.</div>  
+
 
 <div align="center">
   <a href="https://github.com/itsnymsai">
@@ -18,11 +21,6 @@
   <img align="center" alt="Maia-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Maia-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />     
   <img align="center" alt="Maia-Ai" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-
- 
-          
-  <img align="right" alt="Maia-pic" height="150" style="border-radius:50px;" src="https://medheight=676">
-</div>
   
   ##
  
