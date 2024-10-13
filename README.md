@@ -8,7 +8,7 @@ I started studying programming in 2018 and graduated in 2021, now I keep my stud
 
 * 🌍  I'm based in João Pessoa, Brazil
 * ✉️  You can contact me at [iasmynfreiitas@gmail.com](mailto:iasmynfreiitas@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Laravue
 * ⚡  I love books and movies
 
 ### Skills
