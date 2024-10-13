@@ -39,6 +39,4 @@ I started studying programming in 2018 and graduated in 2021, now I keep my stud
 
 <a href="https://github.com/itsnymsai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnymsai&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
-  ![snake animation](https://github.com/itsnymsai/itsnymsai/blob/output/github-contribution-grid-snake2.svg)
- 
 </div>
